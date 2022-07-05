@@ -24,3 +24,5 @@ After Task Update
 After Task Deletion
 <img src="static/Screenshot from 2022-07-04 20-21-33.png" />
 
+
+Credits to @python_developers on ig
